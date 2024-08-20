@@ -19,6 +19,7 @@ You may want to do this from a virtual environment, especially if you are testin
 
 * Implement `add_task`
 * Implement `remove_task`
+* Implement `task_exists`
 * Command line handling
 * Documentation
 * Tests

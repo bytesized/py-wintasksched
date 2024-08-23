@@ -23,5 +23,6 @@ You may want to do this from a virtual environment, especially if you are testin
 * Command line handling
 * Documentation
 * Tests
+* Figure out CI
 * Linting
 * Add GPL language to the command line help
